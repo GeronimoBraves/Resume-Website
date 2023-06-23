@@ -1,0 +1,90 @@
+/* #08aeac
+    #c4b16f
+#bbb2c2
+#021533
+#08aeac
+*/
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+
+/* resume Content */
+body {
+    background-color: #fff;
+}
+.content {
+    padding-right: 100px;
+    text-align: justify;
+}
+.title {
+    color: #c4b16f;
+    font-size: 40px;
+}
+
+.resume-nav {
+    background-color: #08aeac;
+}
+.resume-nav p {
+    border-bottom: 1px solid #fff;
+    font-size: 20px;
+}
+.resume-btn {
+    background-color: #08aeac;
+    color: #fff;
+    border-bottom: 1px solid #fff;
+    width: 100%;
+    text-align: left;
+}
+/* .resume-content img {
+    width: 100px;
+    height: 100px;
+} */
+.resume-btn:hover {
+    color: #c4b16f;
+}
+.prof-data {
+    text-align: end;
+}
+a {
+    text-decoration: none;
+    color: #08aeac;
+}
+a:hover {
+    color:#c4b16f;
+}
+.data-high {
+    color: #08aeac;
+}
+.dates {
+    text-align: end;
+}
+.ctfs a {
+    color: #08aeac;
+}
+.ctfs a:hover {
+    color: #c4b16f;
+}
+
+/* Care Form */
+.care-form {
+    background-color: #08aeac;
+    color: #fff;
+    border-radius: 10px;
+}
+.care-form p {
+    font-size: 18px;
+}
+.form-color {
+    color: #445c54;
+}
+.form-submit {
+    background-color: #fff;
+    color: #08aeac;
+}
+.fsub {
+    text-align: center;
+}
